@@ -9,7 +9,7 @@ public class Test {
 		System.out.println("1");
 		System.out.println("난는 조원이야 !");
 
-		System.out.println("zzz");
+		System.out.println("zzz"); 
 		
 	}
 
