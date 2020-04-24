@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("나는 조장이야 !");
 		System.out.println("난는 조원이야 !");
 		
+		System.out.println("zzz");
+		
 	}
 
 }
